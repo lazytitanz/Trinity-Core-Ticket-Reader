@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Trinity Core Ticket Reader", "Trinity Core Ticket Reader\Trinity Core Ticket Reader.vbproj", "{DC440DDF-29F8-429D-AC27-D0A501A92AA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC440DDF-29F8-429D-AC27-D0A501A92AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC440DDF-29F8-429D-AC27-D0A501A92AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC440DDF-29F8-429D-AC27-D0A501A92AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC440DDF-29F8-429D-AC27-D0A501A92AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {990BC20D-2B10-49B9-A6B4-EF4F95A7E52D}
+	EndGlobalSection
+EndGlobal
